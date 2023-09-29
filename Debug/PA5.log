@@ -1,0 +1,56 @@
+﻿  pa5.c
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(331,16): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(331,11): warning C4024: 'roll_die': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(332,20): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(332,15): warning C4024: 'display_dice': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(357,50): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(357,39): warning C4024: 'combo_selection': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(358,44): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(358,39): warning C4024: 'verify_selection': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(358,57): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(358,46): warning C4024: 'verify_selection': different types for formal and actual parameter 3
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(358,70): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(358,59): warning C4024: 'verify_selection': different types for formal and actual parameter 4
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(364,50): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(364,39): warning C4024: 'combo_selection': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(365,44): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(365,39): warning C4024: 'verify_selection': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(365,57): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(365,46): warning C4024: 'verify_selection': different types for formal and actual parameter 3
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(365,70): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(365,59): warning C4024: 'verify_selection': different types for formal and actual parameter 4
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(374,20): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(374,15): warning C4024: 'roll_die': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(375,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(375,19): warning C4024: 'display_dice': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(386,22): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(386,17): warning C4024: 'roll_die': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(397,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(397,19): warning C4024: 'display_dice': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(405,49): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(405,38): warning C4024: 'combo_selection': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(406,43): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(406,38): warning C4024: 'verify_selection': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(406,56): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(406,45): warning C4024: 'verify_selection': different types for formal and actual parameter 3
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(406,69): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(406,58): warning C4024: 'verify_selection': different types for formal and actual parameter 4
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(412,49): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(412,38): warning C4024: 'combo_selection': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(413,43): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(413,38): warning C4024: 'verify_selection': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(413,56): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(413,45): warning C4024: 'verify_selection': different types for formal and actual parameter 3
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(413,69): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(413,58): warning C4024: 'verify_selection': different types for formal and actual parameter 4
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(422,19): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(422,14): warning C4024: 'roll_die': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(423,23): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[5]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(423,18): warning C4024: 'display_dice': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(430,28): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(430,17): warning C4024: 'print_scores': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(430,41): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *(*)[13]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(430,30): warning C4024: 'print_scores': different types for formal and actual parameter 2
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(326,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\PA5\pa5.c(327,1): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+  PA5.vcxproj -> C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA5\Debug\PA5.exe
